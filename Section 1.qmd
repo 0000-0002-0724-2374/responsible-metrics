@@ -1,11 +1,11 @@
 ---
-title: "Section 1 - ds test update take 2 try again"
+title: "Section 1 - ds test update take 3 try again"
 format: html
 ---
 
-## Section 1 - Responsible research metrics overview DS TEST CHANGE take 2 try again
+## Section 1 - Responsible research metrics overview DS TEST CHANGE take 3 try again
 
-In this first section you will explore DS TEST CHANGEs take 2 try again:
+In this first section you will explore DS TEST CHANGEs take 3 try again:
 
 -   what metrics are in the context of research;
 -   the principles of responsible metrics;
